@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    background:lightgrey;
+}
+body{
+   
+    height: 900px;
+    width:900px;
+    margin: 20px auto;
+    
+}
+
+section{
+   border: 5px solid black;
+   padding:10px 10px;
+   margin: 30px 0px;
+}
+
+div{
+    font-size: x-large;
+ 
+    
+}
+
+  
+.smallbox{
+   
+    background-color: rgb(176, 226, 242);
+    text-align: right;
+    border: 5px solid black;
+    padding: 30px 10px;
+    margin: 30px 0px;
+    width: 100%;
+}
+
+.image img{
+   
+    float:left;
+    display: block;
+    margin: auto;
+    border-style: solid;
+    clip-path: circle();
+
+
+}
+.box{
+    background-color:rgb(216, 248, 248);
+    border: 5px solid black;
+    padding: 60px 5px;
+    margin: 20px auto;
+    width: 950px;
+}
